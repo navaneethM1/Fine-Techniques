@@ -6,7 +6,7 @@ first element. Also, the columns are binary, meaning they are either filled or e
 
 # How to compile (I have used math.h):
 gcc A2_PES1201801597.c sanity_client.c -lm
-<br>where "sanity_client.c" is the file having the test case/main program
+<br> where "sanity_client.c" is the file having the test case/main program
 
 # Key takeaway from this assignment:
 Using normal method of keeping track of highest and second highest found so far using two 
