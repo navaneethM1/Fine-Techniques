@@ -1,8 +1,8 @@
-#Data Structures used:
+# Data Structures used:
 1. A doubly linked list that shows stack behaviour
 2. An array of pointers to functions
 
-#How to compile:
+# How to compile:
 gcc A3_impl_PES1201801597.c A3_client_PES1201801597.c
 	To execute(and get the output on the terminal):
 	./a.out < input.txt
@@ -10,5 +10,5 @@ gcc A3_impl_PES1201801597.c A3_client_PES1201801597.c
 	./a.out < input.txt > o1.txt
 where input.txt is the input file
 
-#Key takeaway from this assignment:
+# Key takeaway from this assignment:
 This assignment helped me understand the concept of backtracking used in state space search.
