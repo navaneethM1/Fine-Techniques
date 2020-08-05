@@ -4,11 +4,12 @@
 
 # How to compile:
 gcc A3_impl_PES1201801597.c A3_client_PES1201801597.c
-	To execute(and get the output on the terminal):
+<br>
+To execute(and get the output on the terminal):<br>
 	./a.out < input.txt
-	To execute(and get the output to o1.txt):
+To execute(and get the output to o1.txt):<br>
 	./a.out < input.txt > o1.txt
-where input.txt is the input file
+<br>where input.txt is the input file
 
 # Key takeaway from this assignment:
 This assignment helped me understand the concept of backtracking used in state space search.
