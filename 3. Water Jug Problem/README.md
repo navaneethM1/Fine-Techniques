@@ -7,7 +7,7 @@ gcc A3_impl_PES1201801597.c A3_client_PES1201801597.c
 <br>
 To execute(and get the output on the terminal):<br>
 	./a.out < input.txt
-To execute(and get the output to o1.txt):<br>
+<br>To execute(and get the output to o1.txt):<br>
 	./a.out < input.txt > o1.txt
 <br>where input.txt is the input file
 
